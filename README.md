@@ -8,7 +8,8 @@ An end-to-end, production-oriented PACS system that integrates automated medical
   - Patient, doctor, and appointment management
   - Secure clinical data handling
   - **Fine-tuned role-based AI chatbot** for different user roles (e.g., doctors, radiologists, patients) to support clinical queries and system interaction
-  - Chatbot: <img width="458" height="520" alt="image" src="https://github.com/user-attachments/assets/7de3fb99-c1b5-4d3d-9836-e9daf3b062f5" />
+  - Chatbot:
+  - <img width="458" height="520" alt="image" src="https://github.com/user-attachments/assets/7de3fb99-c1b5-4d3d-9836-e9daf3b062f5" />
 
 
 - **PACS System**
