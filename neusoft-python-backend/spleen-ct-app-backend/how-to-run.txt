@@ -1,0 +1,5 @@
+1. Create a virtual env
+2. Inside the virtual env, run -> pip install -r requirements.txt
+3. Then, from the project root, run -> python app.py
+
+** The "spleen_47_nii.gz" is a test file that be uploaded from the front end.

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# AI / Medical data
+datasets/
+data/
+*.nii
+*.nii.gz
+*.dcm
+models/
+checkpoints/
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
