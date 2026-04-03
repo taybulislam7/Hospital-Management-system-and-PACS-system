@@ -1,4 +1,4 @@
-<img width="254" height="62" alt="image" src="https://github.com/user-attachments/assets/8a623310-0bcf-492b-8727-f3352268b8e9" /># Hospital-Management-system-and-PACS-system
+# Hospital-Management-system-and-PACS-system
 An end-to-end, production-oriented PACS system that integrates automated medical image segmentation, interactive 2D/3D visualization, and AI-assisted clinical workflows. The platform supports DICOM/NIfTI/NRRD data ingestion, GPU-accelerated deep learning inference (nnU-Net/U-Net) for lung, brain, and spleen segmentation, and real-time 3D rendering in the browser. Built with a microservice architecture (Spring Boot, Python Flask, Vue.js, Docker), it also includes RAG-based AI chatbots for patients and clinicians, secure role-based access control, and hospital-grade deployment components (Orthanc, MinIO, MySQL).
 
 ## 🚀 Key Features
