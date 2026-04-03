@@ -24,9 +24,13 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Medical imaging files
+# Medical imaging
 *.nrrd
 *.nii
 *.nii.gz
 *.dcm
 upload/
+datasets/
+data/
+models/
+checkpoints/
